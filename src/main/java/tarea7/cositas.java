@@ -1,3 +1,4 @@
+package tarea7;
 
 import javax.swing.*;
 
